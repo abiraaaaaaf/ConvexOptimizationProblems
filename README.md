@@ -5,3 +5,7 @@ Some Convex Optimization Samples  - Convex Optimization Course
 
 - Problem2: Relaxed Linear Programming (CVXPY)
 
+- Problem3: SVM
+
+- Problem4: Steepest descent eulinean and quadratic norm
+
